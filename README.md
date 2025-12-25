@@ -3,11 +3,12 @@
 </h1>
 
 <h3 align="center">
-  🚀 Computer Science Student | Java & Python Developer | Frontend Enthusiast
+  A Passionate Web Developer From India 🇮🇳
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+%7C+Python+Developer;Frontend+with+HTML+CSS+JS;SQL+%7C+Oracle+Live+SQL;DSA+%7C+Problem+Solver;Always+Learning+New+Things&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Code.+Learn.+Build.+Repeat.;Consistency+Over+Motivation;Growth+Is+a+Daily+Process&center=true&width=600&height=50">
 </p>
+
 
 # 💫 About Me:
 🎓 I'm a Computer Science undergraduate passionate about building scalable, efficient, and real-world applications through clean and maintainable code.<br><br>💻 I specialize in Java and Python for problem-solving and backend logic, while crafting responsive and modern user interfaces using HTML, CSS, and JavaScript.<br><br>🗄️ I work with SQL and Oracle Live SQL for database design, querying, and data handling.<br><br>📈 Currently, I’m focused on strengthening Data Structures & Algorithms, improving backend fundamentals, and building impactful projects that reflect industry-level practices.<br><br>🚀 Current Focus<br>🔹 Mastering Java & Python fundamentals<br>🔹 Practicing DSA & competitive problem solving<br>🔹 Building frontend & database-driven projects<br>🔹 Exploring full-stack development
