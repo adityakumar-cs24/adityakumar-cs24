@@ -65,7 +65,7 @@
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=adityakumar-cs24&show_icons=true&theme=flag-india&count_private=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=adityakumar-cs24)
+![](https://nirzak-streak-stats.vercel.app/?user=adityakumar-cs24&theme=flag-india)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar-cs24&layout=compact&theme=flag-india)
 
 ---
