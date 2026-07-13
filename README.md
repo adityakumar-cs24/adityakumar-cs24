@@ -1,91 +1,111 @@
-<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-
-<h3 align="center">
-  A Passionate Web Developer From India 🇮🇳
-</h3>
+<h1 align="center">Hi, I'm Aditya Kumar 👋</h1>
+<h3 align="center">Final-stretch B.Tech CS student → looking for SDE/Full-Stack roles (on-campus & off-campus)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Code.+Learn.+Build.+Repeat.;Consistency+Over+Motivation;Growth+Is+a+Daily+Process&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Problem+Solver;Building+Real+Projects,+Not+Just+Practice+Repos;Open+to+SDE+%2F+Full-Stack+Roles&center=true&width=600&height=50&color=2E86FF&vCenter=true&size=22" alt="typing-svg" />
 </p>
 
 ---
 
-## 💫 About Me
+### 🎯 About Me
 
-🎓 Computer Science undergraduate passionate about building **scalable, efficient, and real-world applications** using clean and maintainable code.
-
-💻 Strong foundation in **Java and Python** for problem-solving and backend logic, along with **HTML, CSS, and JavaScript** for crafting responsive user interfaces.
-
-🗄️ Experienced with **SQL and Oracle Live SQL** for database design, querying, and data handling.
-
-📈 Focused on continuous improvement through **DSA practice, backend fundamentals**, and real-world projects.
+- 🎓 3rd Year B.Tech Computer Science student at **GLA University, Mathura**
+- 🚀 Actively seeking **SDE / Full-Stack Developer** internships & placements — open to both **on-campus and off-campus** opportunities
+- 🏗️ I build full applications end-to-end — auth, database, APIs, payments, deployment — not just tutorials
+- 📚 Consistently solving DSA problems across LeetCode, GeeksforGeeks, Codeforces, CodeChef & HackerRank
+- 📫 Reach me at **aditya.cse24@gmail.com**
 
 ---
 
-## 🚀 Current Focus
+### 🛠️ Tech Stack
 
-- 🔹 Mastering Java & Python fundamentals  
-- 🔹 Practicing DSA & competitive problem solving  
-- 🔹 Building frontend & database-driven projects  
-- 🔹 Exploring full-stack development  
-
----
-
-## 🌐 Socials
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5wU9n5Q7)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aditya_._.pandey)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-6971a831b/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Eduaditya3)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.cse24@gmail.com)
-
----
-
-## 💻 Tech Stack
+**Languages**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Backend & Database**
+
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**ML / Data & Tools**
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=adityakumar-cs24&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adityakumar-cs24&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar-cs24&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#### 🌍 [TravelBuddy — AI-Powered Travel Planning Platform](https://github.com/adityakumar-cs24/travelbuddy)
+A full-stack travel management app that replaces 5 different apps (itinerary, expenses, group coordination, payments) with one platform.
+- 🔐 Secure auth & protected routes with **Clerk**
+- 🤖 AI-generated itineraries using **OpenAI / Google Generative AI / Groq**
+- 💳 Integrated **Razorpay** payments, expense splitting, and an admin dashboard
+- 🧱 Built with **Next.js 16, React 19, TypeScript, Tailwind CSS, Supabase**
+- 🔗 **Live Demo:** [travel-buddy-drab-sigma.vercel.app](https://travel-buddy-drab-sigma.vercel.app/)
 
+`Next.js` `TypeScript` `Supabase` `Clerk` `Razorpay` `AI Integration`
+
+#### 🛡️ [SpamShield — Intelligent Spam Detection System](https://github.com/aaryan-rawal/SpamShield)
+An NLP-powered ML web app that classifies messages as Spam/Ham in real time. Built as a 4-member team project.
+- 🧠 Custom NLP pipeline — POS-aware lemmatization, semantic token handling, spam-sensitive stopword filtering
+- 📊 TF-IDF vectorization + trained classifier (**98%+ accuracy**)
+- 🔁 Live model retraining via API, without server restart
+- 🌐 Dynamic dataset fetching with local caching & offline fallback
+- 🧱 Built with **Python, Flask, scikit-learn, NLTK**
+
+`Python` `Flask` `Machine Learning` `NLP` `TF-IDF`
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityakumar-cs24&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
+### 🧩 Coding Profiles
+
+<p align="left">
+<a href="https://leetcode.com/u/Adityakumar_cs24/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.geeksforgeeks.org/profile/adityak1ew" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/Adityakumar_cs24" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/aditya_kumar24" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/aditya_cse24" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityakumar-cs24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar-cs24&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakumar-cs24&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adityakumar-cs24&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+### 🤝 Connect With Me
 
+<p align="left">
+<a href="https://www.linkedin.com/in/aditya-kumar-6971a831b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:aditya.cse24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=adityakumar-cs24&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM -->
+<p align="center"><i>🟢 Open to SDE, Full-Stack, and Software Engineering roles — on-campus & off-campus — starting [Add your availability, e.g. Jan 2027]</i></p>
